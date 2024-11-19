@@ -144,17 +144,18 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Regulation:** n/a
 
 ## Bridge wind restriction
-**Has domain:** [Track](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fdata.europa.eu%2F949%2FTrack)
+**Has domain:** [Track](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fdata.europa.eu%2F949%2FTrack) /
+    [Bridge](https://linkedvocabs.org/data/era-ontology/3.1.0/doc/index-en.html#Bridge)  ERA Ontology 3.1.0
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
-          [Bridge](https://linkedvocabs.org/data/era-ontology/3.1.0/doc/index-en.html#Bridge)  ERA Ontology 3.1.0
+      
 
 **Description:** Indicate, if there are any wind restrictions for a bridge.
 
 **Regulation:** n/a
 
 ## Bridge opening hours
-**Has domain:** [Track](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fdata.europa.eu%2F949%2FTrack)
+**Has domain:** [Track](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fdata.europa.eu%2F949%2FTrack) /
                 [Bridge](https://linkedvocabs.org/data/era-ontology/3.1.0/doc/index-en.html#Bridge)  ERA Ontology 3.1.0
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
