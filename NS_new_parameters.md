@@ -1,7 +1,7 @@
 
 # Proposed Parameters from NS to be added to ERA Ontology/RINF
 
-## Problem settin
+## Problem setting
 
 As part of RNE’s work supporting the IMs digitalising their network statement, RNE has been contracted to study, define and propose additional infrastructure parameters which would be needed for RINF to effectively cover the nature of the infrastructure part of the network statement. After comparision between the parameters of the Network Statement Common Structure with those of the RINF Register of Infrastructure and ERA Vocabulary, RNE proposed the following parameters to enrich ERA Ontology and as inputs for future developments of the RINF application.
 
