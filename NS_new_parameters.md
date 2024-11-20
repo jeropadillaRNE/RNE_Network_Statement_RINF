@@ -29,7 +29,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 ## Maximum Axle load
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
-**Type:** [Double](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23double) 
+**Type:** [Tons](https://qudt.org/vocab/unit/TONNE)
 
 **Description:** Maximum permitted axle load, given in tons.
 
@@ -38,7 +38,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 ## Maximum Meter load
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
-**Type:** [Double](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23double)
+**Type:** [Tons](https://qudt.org/vocab/unit/TONNE)
 
 **Description:** Maximum permitted meter load, given in tons.
 
@@ -62,7 +62,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Noise level
+## Noise level limits
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -70,6 +70,14 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Description:** Indicate, if there are any limits on noise levels.
 
 **Regulation:** n/a
+
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Noise level
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:** [dB](https://qudt.org/vocab/unit/DeciB)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Maximum allowed noise level in decibels (dB).
 
 ## Restricted classes of dangerous goods
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
@@ -89,7 +97,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Opening hours
+## Tunnel opening hours
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -101,7 +109,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 ## Tunnel speed limit
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
 
-**Type:** [Integer](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer)
+**Type:** [Km/h](http://qudt.org/vocab/unit/KiloM-PER-HR)
 
 **Description:** Indicate the speed limit in a tunnel.
 
