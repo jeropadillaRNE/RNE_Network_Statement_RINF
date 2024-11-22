@@ -79,16 +79,25 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Maximum allowed noise level in decibels (dB).
 
-## Restricted classes of dangerous goods
-**Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
+
+## Existance of restricted dangerous goods 
+**Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel) / [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
 
-**Description:** Indicate, if there are any limits on specific type of dangerous goods.
+**Description:** Indicate, if there are any limits on transportation of dangerous goods.
 
 **Regulation:** n/a
 
-## Restricted times of the day for transport of dangerous goods
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Restricted dangerous goods
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [String](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23anyURI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Description of the type of dangerous good that are not allowed in the tunnel
+
+## Existance of restricted periods of time for dangerous goods transportation
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -97,7 +106,16 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Tunnel opening hours
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Period of time
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [String](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23anyURI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Describes the period of time for which the transport of dangerous goods is not allowed in the Section of Line
+
+
+## Existence of opening hours limitation
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -105,6 +123,14 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Description:** Indicate, if there are any opening hours of the section of a line.
 
 **Regulation:** n/a
+
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Opening hours
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [String](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23anyURI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Opening hours of the class.
 
 ## Tunnel speed limit
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
@@ -115,7 +141,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Restricted type of vehicle
+## Existance of restricted type of vehicle
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -123,6 +149,14 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Description:** Indicate, if there are any limits on specific type of vehicle.
 
 **Regulation:** n/a
+
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Restricted type of vehicle
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [String](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23anyURI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Description of the type vehicles that cannot use the tunnel.
 
 ## Exclusion of simultaneity
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
@@ -133,16 +167,9 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Transportation of dangerous goods
-**Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
 
-**Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
 
-**Description:** Indicate, if there are any limits on transportation of dangerous goods.
-
-**Regulation:** n/a
-
-## Tunnel opening hours
+## Tunnel opening hours limitation
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)'
@@ -150,6 +177,14 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Description:** Indicate, if there are any opening hours of the tunnel.
 
 **Regulation:** n/a
+
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Opening hours
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [String](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23anyURI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Opening hours of the class.
 
 ## Bridge wind restriction
 **Has domain:** [Track](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fdata.europa.eu%2F949%2FTrack) /
@@ -162,7 +197,15 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Bridge opening hours
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Maximun wind
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [Km/h](http://qudt.org/vocab/unit/KiloM-PER-HR)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Indicates the maximun wind speed for which the bridge can operate
+
+## Bridge opening hours limitation
 **Has domain:** [Track](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fdata.europa.eu%2F949%2FTrack) /
                 [Bridge](https://linkedvocabs.org/data/era-ontology/3.1.0/doc/index-en.html#Bridge)  ERA Ontology 3.1.0
 
@@ -171,3 +214,11 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Description:** Indicate, if there are any opening hours of the bridge.
 
 **Regulation:** n/a
+
+**If True:** 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Opening hours
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**  [String](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23anyURI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Opening hours of the class.
