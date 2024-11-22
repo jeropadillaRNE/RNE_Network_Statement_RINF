@@ -80,7 +80,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Maximum allowed noise level in decibels (dB).
 
 
-## Existance of restricted dangerous goods 
+## Existence of restricted dangerous goods 
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel) / [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -97,7 +97,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Description:*** Description of the type of dangerous good that are not allowed in the tunnel
 
-## Existance of restricted periods of time for dangerous goods transportation
+## Existence of restricted periods of time for dangerous goods transportation
 **Has domain:** [Section of Line](http://data.europa.eu/949/SectionOfLine)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -141,7 +141,7 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 
 **Regulation:** n/a
 
-## Existance of restricted type of vehicle
+## Existence of restricted type of vehicle
 **Has domain:** [Tunnel](http://data.europa.eu/949/Tunnel)
 
 **Type:** [Boolean](https://data-interop.era.europa.eu/describe#http%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean)
@@ -166,7 +166,6 @@ As part of RNE’s work supporting the IMs digitalising their network statement,
 **Description:** Indicate, if passenger and freight trains meeting together in a tunnel is allowed.
 
 **Regulation:** n/a
-
 
 
 ## Tunnel opening hours limitation
