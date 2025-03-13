@@ -10,22 +10,22 @@ Infrastructure and ERA Vocabulary, RNE proposed the following parameters to enri
 # Classes
 ### Service Facility
 
-Has super-classes: Operational Point
+Has super-classes: **Operational Point**
 
 Description: A Service Facility is a facility that offers services to trains, primarily maintenance, loading, and refuelling.
 
 Regulation: n/a
 
-In domain of: Facility Type, Facility Owner
+In domain of: **Facility Type**, **Facility Owner**
 
 In range of:
 
 # Object-Properties
 ### Facility Owner
 
-Has domain: Service Facility
+Has domain: **Service Facility**
 
-Has range: org:Organization
+Has range: **org:Organization**
 
 Description: The owner of the service facility.
 
@@ -36,32 +36,32 @@ Regulation: n/a
 
 Has domain: Service Facility
 
-Has range: Integer
+Has range: *Integer*
 
 Description: A type of Service Facility, identified by a number. The possible values are:
 
-1 = Passenger station
-
-2 = Intermodal terminal
-
-3 = Multifunctional rail terminal
-
-4 = Public siding
-
-5 = Private siding
-
-6 = Marshalling yard
-
-7 = Storage siding
-
-8 = Maintenance facility
-
-9 = Other technical facility
-
-10 = Relief facility
-
-11 = Refueling facility
-
-12 = Mobile service provider
+  1 = Passenger station
+  
+  2 = Intermodal terminal
+  
+  3 = Multifunctional rail terminal
+  
+  4 = Public siding
+  
+  5 = Private siding
+  
+  6 = Marshalling yard
+  
+  7 = Storage siding
+  
+  8 = Maintenance facility
+  
+  9 = Other technical facility
+  
+  10 = Relief facility
+  
+  11 = Refueling facility
+  
+  12 = Mobile service provider
 
 Regulation: n/a
