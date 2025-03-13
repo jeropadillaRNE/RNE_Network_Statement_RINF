@@ -34,7 +34,7 @@ Regulation: n/a
 # Data-Properties
 ### Facility Type
 
-Has domain: Service Facility
+Has domain: **Service Facility**
 
 Has range: *Integer*
 
