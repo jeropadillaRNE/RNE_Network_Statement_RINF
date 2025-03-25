@@ -11,13 +11,19 @@ Infrastructure and ERA Vocabulary, RNE proposed the following parameters to enri
 ### Service Facility
 
 Represents a facility that offers services to trains.
-IRI: http://data.europa.eu/949/LinearElementSection
+
+IRI: http://data.europa.eu/949/ServiceFacility
 
 Is a:
+
 http://data.europa.eu/949/OperationalPoint
+
 Has Properties:
+
 Facility Type
-- A type of Service Facility, identified by a number. The possible values are:
+
+- A type of Service Facility, identified by a number.
+  
 Facility Owner
 - The owner of the service facility.
 Additional Information
