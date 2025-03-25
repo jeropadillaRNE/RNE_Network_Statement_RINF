@@ -10,15 +10,21 @@ Infrastructure and ERA Vocabulary, RNE proposed the following parameters to enri
 # Classes
 ### Service Facility
 
-Has super-classes: **Operational Point**
+Represents a facility that offers services to trains.
+IRI: http://data.europa.eu/949/LinearElementSection
 
-Description: The installation, including ground area, building and equipment, which has been specially arranged, as a whole or in part, to allow the supply of one or more services referred to in points 2 to 4 of Annex II.
+Is a:
+http://data.europa.eu/949/OperationalPoint
+Has Properties:
+Facility Type
+- A type of Service Facility, identified by a number. The possible values are:
+Facility Owner
+- The owner of the service facility.
+Additional Information
+  General explanation:
+  The installation, including ground area, building and equipment, which has been specially arranged, as a whole or in part, to allow the supply of one or more services referred to in points 2 to 4 of Annex II.
 
 Regulation: n/a
-
-In domain of: **Facility Type**, **Facility Owner**
-
-In range of:
 
 # Object-Properties
 ### Facility Owner
