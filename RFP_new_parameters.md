@@ -1,4 +1,4 @@
-# PROPOSED PARAMETERS FROM RFP TO BE ADDED TO ERA ONTOLOGY
+﻿# PROPOSED PARAMETERS FROM RFP TO BE ADDED TO ERA ONTOLOGY
 ## Problem setting
 
 As part of RNE’s work supporting the IMs digitalising their network statement, RNE has been
@@ -8,49 +8,138 @@ Infrastructure and ERA Vocabulary, RNE proposed the following parameters to enri
 
 ## Proposed solution
 # Classes
-### Service Facility
+## Service Facility
 
 Represents a facility that offers services to trains.
 
-IRI: http://data.europa.eu/949/ServiceFacility
+**IRI**: http://data.europa.eu/949/ServiceFacility
 
-Is a:
+### Is a
 
-http://data.europa.eu/949/OperationalPoint
+* [Operational Point](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#OperationalPoint)
 
-Has Properties:
+### Has Properties
 
-Facility Type
-
-- A type of Service Facility, identified by a number.
+* **Facility Type** - A type of Service Facility, identified by a number.
   
-Facility Owner
-- The owner of the service facility.
-Additional Information
-  General explanation:
-  The installation, including ground area, building and equipment, which has been specially arranged, as a whole or in part, to allow the supply of one or more services referred to in points 2 to 4 of Annex II.
+* **Facility Owner** - The owner of the service facility.
+
+### Additional Information
+
+**General explanation**:
+
+The installation, including ground area, building and equipment, which has been specially arranged, as a whole or in part, to allow the supply of one or more services referred to in points 2 to 4 of Annex II.
 
 Regulation: n/a
 
 # Object-Properties
-### Facility Owner
+## Facility Owner
+The owner of the service facility.
+### General Information
+**Number**: 1.1.1.5.1.1
+**XML Name**: SF_Owner
+**Deadline**:  xx
 
-Has domain: **Service Facility**
+### Data Format
+* **Data Presentation**
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+* **Taxonomy Reference**
+http://data.europa.eu/949/facilityOwner
 
-Has range: **org:Organization**
+### Belongs to parameters group
 
-Description: The owner of the service facility.
+None
 
-Regulation: n/a
+### Flags
+
+* **Applicability Flags**:
+Y/N/NYA
+
+### Validation
+
+* **Validation Rules**:
+	None
+
+* **Validation Messages**:
+	None
+
+### OPE TSI References
+
+* **Appendix D2 Index**
+	None
+	
+### Parameter of
+
+http://data.europa.eu/949/ServiceFacility
+
+### Additional Information
+
+* **General explanation**:
+	None
+
+* **Regulation**: 
+	None
 
 # Data-Properties
 ### Facility Type
 
-Has domain: **Service Facility**
+A type of Service Facility, identified by a number.
+### General Information
+**Number**: 1.1.1.5.1.2
+**XML Name**: SF_Type
+**Deadline**:  xx
 
-Has range: *Integer*
+### Data Format
+* **Data Presentation**
+*Integer*
+* **Taxonomy Reference**
+http://data.europa.eu/949/facilityType
+* **Values**
+| Code | Value |
+|------|-------|
+| 1    | 1     |
+| 2    | 2     |
+| 3    | 3     |
+| 4    | 4     |
+| 5    | 5     |
+| 6    | 6     |
+| 7    | 7     |
+| 8    | 8     |
+| 9    | 9     |
+| 10   | 10    |
+| 11   | 11    |
+| 12   | 12    |
 
-Description: A type of Service Facility, identified by a number. The possible values are:
+### Belongs to parameters group
+
+None
+
+### Flags
+
+* **Applicability Flags**:
+Y/N/NYA
+
+### Validation
+
+* **Validation Rules**:
+	None
+
+* **Validation Messages**:
+	None
+
+### OPE TSI References
+
+* **Appendix D2 Index**
+	None
+	
+### Parameter of
+
+http://data.europa.eu/949/ServiceFacility
+
+### Additional Information
+
+* **General explanation**:
+	The possible values are:
 
   1 = Passenger station - Train station for passenger traffic, equipped with specific facilities for the access of the passengers and providing related services.
   
@@ -76,4 +165,5 @@ Description: A type of Service Facility, identified by a number. The possible va
   
   12 = Mobile service provider
 
-Regulation: Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177)
+* **Regulation**: 
+	Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177)
