@@ -30,7 +30,7 @@ Represents a facility that offers services to trains.
 
 The installation, including ground area, building and equipment, which has been specially arranged, as a whole or in part, to allow the supply of one or more services referred to in points 2 to 4 of Annex II.
 
-Regulation: n/a
+**Regulation**: n/a
 
 # Object-Properties
 ## Facility Owner
