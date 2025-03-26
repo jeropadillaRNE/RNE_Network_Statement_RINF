@@ -16,7 +16,7 @@ Represents a facility that offers services to trains.
 
 ### Is a
 
-* [Operational Point](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#OperationalPoint)
+* http://data.europa.eu/949/OperationalPoint
 
 ### Has Properties
 
