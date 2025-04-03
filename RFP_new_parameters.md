@@ -36,8 +36,11 @@ The installation, including ground area, building and equipment, which has been 
 ## Facility Owner
 The owner of the service facility.
 ### General Information
+
 **Number**: 1.1.1.5.1.1
+
 **XML Name**: SF_Owner
+
 **Deadline**:  xx
 
 ### Data Format
@@ -85,8 +88,11 @@ http://data.europa.eu/949/ServiceFacility
 
 A type of Service Facility, identified by a number.
 ### General Information
+
 **Number**: 1.1.1.5.1.2
+
 **XML Name**: SF_Type
+
 **Deadline**:  xx
 
 ### Data Format
