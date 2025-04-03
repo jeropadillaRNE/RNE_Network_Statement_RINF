@@ -274,7 +274,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-  	This property is considered as general information (type 1).
+  	This property is considered as Type 1 property (General Information).
 	Free text entry, name organisation providing the data
 
 * **Regulation**: 
@@ -343,7 +343,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-  	This property is considered as general information (type 1).
+  	This property is considered as Type 1 property (General Information).
   
   1 = Passenger station - Train station for passenger traffic, equipped with specific facilities for the access of the passengers and providing related services.
   
@@ -375,7 +375,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityName
-The facilityname
+Facility Name
 ### General Information
 
 **Number**: 1.1.3.7.25
@@ -419,7 +419,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information). It is a free text entry
 
 * **Regulation**: 
 	Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177) 
@@ -427,7 +427,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaSeaport
-The areaseaport
+Is the facility located int Sea Port Area?
 ### General Information
 
 **Number**: 1.1.6.2.7
@@ -441,6 +441,13 @@ The areaseaport
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaSeaport
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Yes     |
 
 ### Belongs to parameters group
 
@@ -471,7 +478,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	Mandatory by law (point 2 (g) of Annex II to Dir. 2012/34/EU)
@@ -523,7 +530,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	Mandatory by law (point 2 (g) of Annex II to Dir. 2012/34/EU)
@@ -575,7 +582,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -627,7 +634,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	5-[4]
@@ -679,7 +686,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -731,7 +738,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -783,7 +790,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -835,7 +842,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -887,7 +894,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -939,7 +946,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -991,7 +998,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1043,7 +1050,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1095,7 +1102,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1147,7 +1154,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1199,7 +1206,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1251,7 +1258,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1303,7 +1310,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1355,7 +1362,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1407,7 +1414,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1459,7 +1466,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1511,7 +1518,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1563,7 +1570,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1615,7 +1622,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1667,7 +1674,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1719,7 +1726,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
 	None
@@ -1771,7 +1778,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -1823,7 +1830,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -1875,7 +1882,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -1927,7 +1934,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -1979,7 +1986,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2031,7 +2038,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2083,7 +2090,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2135,7 +2142,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2187,7 +2194,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2239,7 +2246,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2291,7 +2298,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2343,7 +2350,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2395,7 +2402,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2447,7 +2454,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2499,7 +2506,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2551,7 +2558,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2603,7 +2610,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2655,7 +2662,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2707,7 +2714,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2759,7 +2766,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2811,7 +2818,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2863,7 +2870,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2915,7 +2922,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -2967,7 +2974,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3019,7 +3026,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3071,7 +3078,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3123,7 +3130,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3175,7 +3182,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3227,7 +3234,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3279,7 +3286,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3331,7 +3338,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3383,7 +3390,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3435,7 +3442,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3487,7 +3494,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3539,7 +3546,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3591,7 +3598,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3643,7 +3650,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3695,7 +3702,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3747,7 +3754,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3799,7 +3806,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3851,7 +3858,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3903,7 +3910,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -3955,7 +3962,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -4007,7 +4014,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -4059,7 +4066,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -4111,7 +4118,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -4163,7 +4170,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -4215,7 +4222,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 2 property (Services provided).
 
 * **Regulation**: 
 	None
@@ -4267,7 +4274,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4319,7 +4326,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4371,7 +4378,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4423,7 +4430,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4475,7 +4482,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4527,7 +4534,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4579,7 +4586,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4631,7 +4638,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4683,7 +4690,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4735,7 +4742,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4787,7 +4794,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4839,7 +4846,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4891,7 +4898,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4943,7 +4950,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -4995,7 +5002,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5047,7 +5054,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5099,7 +5106,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5151,7 +5158,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5203,7 +5210,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5255,7 +5262,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5307,7 +5314,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5359,7 +5366,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5411,7 +5418,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5463,7 +5470,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5515,7 +5522,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5567,7 +5574,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5619,7 +5626,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5671,7 +5678,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5723,7 +5730,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5775,7 +5782,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5827,7 +5834,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5879,7 +5886,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5931,7 +5938,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -5983,7 +5990,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6035,7 +6042,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6087,7 +6094,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6139,7 +6146,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6191,7 +6198,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6243,7 +6250,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6295,7 +6302,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6347,7 +6354,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6399,7 +6406,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6451,7 +6458,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6503,7 +6510,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6555,7 +6562,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6607,7 +6614,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6659,7 +6666,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6711,7 +6718,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6763,7 +6770,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6815,7 +6822,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6867,7 +6874,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6919,7 +6926,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -6971,7 +6978,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7023,7 +7030,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7075,7 +7082,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7127,7 +7134,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7179,7 +7186,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7231,7 +7238,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7283,7 +7290,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7335,7 +7342,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7387,7 +7394,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7439,7 +7446,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7491,7 +7498,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7543,7 +7550,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7595,7 +7602,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7647,7 +7654,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7699,7 +7706,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7751,7 +7758,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7803,7 +7810,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 3 property (Service Facility Description).
 
 * **Regulation**: 
 	None
@@ -7855,7 +7862,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 4 property (Charges).
 
 * **Regulation**: 
 	None
@@ -7907,7 +7914,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 4 property (Charges).
 
 * **Regulation**: 
 	None
@@ -7959,7 +7966,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8011,7 +8018,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8063,7 +8070,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8115,7 +8122,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8167,7 +8174,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8219,7 +8226,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8271,7 +8278,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8323,7 +8330,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8375,7 +8382,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8427,7 +8434,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8479,7 +8486,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8531,7 +8538,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8583,7 +8590,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8635,7 +8642,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8687,7 +8694,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8739,7 +8746,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8791,7 +8798,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8843,7 +8850,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8895,7 +8902,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8947,7 +8954,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -8999,7 +9006,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9051,7 +9058,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9103,7 +9110,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9155,7 +9162,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9207,7 +9214,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9259,7 +9266,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9311,7 +9318,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9363,7 +9370,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9415,7 +9422,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9467,7 +9474,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9519,7 +9526,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9571,7 +9578,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9623,7 +9630,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9675,7 +9682,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9727,7 +9734,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9779,7 +9786,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
 	None
@@ -9831,7 +9838,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
 	None
@@ -9883,7 +9890,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
 	None
@@ -9935,7 +9942,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
 	None
@@ -9987,7 +9994,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
 	None
@@ -10039,7 +10046,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
 	None
@@ -10091,7 +10098,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
 	None
