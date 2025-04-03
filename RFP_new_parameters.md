@@ -177,7 +177,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## id
-The id
+Internal system facility ID
 ### General Information
 
 **Number**: 1.1.4.9.19
@@ -221,7 +221,7 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+	By system
 
 * **Regulation**: 
 	None
@@ -273,7 +273,8 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+  	This property is considered as general information (type 1).
+	Free text entry, name organisation providing the data
 
 * **Regulation**: 
 	None
@@ -325,10 +326,23 @@ http://data.europa.eu/949/ServiceFacility
 ### Additional Information
 
 * **General explanation**:
-	None
+  	This property is considered as general information (type 1).
+	Selection list:
+		1 = Passenger station
+		2 = Intermodal terminal
+		3 = Multifunctional rail terminal
+		4 = Public siding
+		5 = Private siding
+		6 = Marshalling yard
+		7 = Storage siding
+		8 = Maintenance facility
+		9 = Other technical facility
+		10 = Relief facility
+		11 = Refuelling facility
+		12 = Mobile service provider
 
 * **Regulation**: 
-	None
+	Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -380,7 +394,7 @@ http://data.europa.eu/949/ServiceFacility
 	None
 
 * **Regulation**: 
-	None
+	Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -432,7 +446,7 @@ http://data.europa.eu/949/ServiceFacility
 	None
 
 * **Regulation**: 
-	None
+	Mandatory by law (point 2 (g) of Annex II to Dir. 2012/34/EU)
 
 ------------------------------------------------------------
 
@@ -484,7 +498,7 @@ http://data.europa.eu/949/ServiceFacility
 	None
 
 * **Regulation**: 
-	None
+	Mandatory by law (point 2 (g) of Annex II to Dir. 2012/34/EU)
 
 ------------------------------------------------------------
 
@@ -588,7 +602,7 @@ http://data.europa.eu/949/ServiceFacility
 	None
 
 * **Regulation**: 
-	None
+	5-[4]
 
 ------------------------------------------------------------
 
