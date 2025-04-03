@@ -188,7 +188,7 @@ The id
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/id
 
@@ -240,7 +240,7 @@ The maindatasource
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/mainDataSource
 
@@ -292,7 +292,7 @@ The facilitytype
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityType
 
@@ -344,7 +344,7 @@ The facilityname
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityName
 
@@ -396,7 +396,7 @@ The areaseaport
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaSeaport
 
@@ -448,7 +448,7 @@ The areainlandport
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaInlandPort
 
@@ -500,7 +500,7 @@ The areafreightvillage
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaFreightVillage
 
@@ -552,7 +552,7 @@ The exempted
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/exempted
 
@@ -604,7 +604,7 @@ The linktoadditionaldocuments
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Hyperlink*
 * **Taxonomy Reference**
 http://data.europa.eu/949/linkToAdditionalDocuments
 
@@ -656,7 +656,7 @@ The purposeofsfdeclaration
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/purposeOfSfDeclaration
 
@@ -708,7 +708,7 @@ The briefpresentation
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/briefPresentation
 
@@ -760,7 +760,7 @@ The operatorname
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorName
 
@@ -812,7 +812,7 @@ The operator
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operator
 
@@ -864,7 +864,7 @@ The operatortype
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorType
 
@@ -916,7 +916,7 @@ The operatorothertype
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorOtherType
 
@@ -968,7 +968,7 @@ The operatorcontact
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorContact
 
@@ -1020,7 +1020,7 @@ The operatorphone
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorPhone
 
@@ -1072,7 +1072,7 @@ The operatorfax
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorFax
 
@@ -1124,7 +1124,7 @@ The operatoremail
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Hyperlink*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorEmail
 
@@ -1176,7 +1176,7 @@ The operatorwebsite
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Hyperlink*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorWebsite
 
@@ -1228,7 +1228,7 @@ The facilityowner
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityOwner
 
@@ -1280,7 +1280,7 @@ The ownertype
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ownerType
 
@@ -1332,7 +1332,7 @@ The ownerothertype
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ownerOtherType
 
@@ -1384,7 +1384,7 @@ The operatorsrelation
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorsRelation
 
@@ -1436,7 +1436,7 @@ The sfdatavaliduntil
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sfDataValidUntil
 
@@ -1488,7 +1488,7 @@ The sfdataupdateprocedure
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sfDataUpdateProcedure
 
@@ -1540,7 +1540,7 @@ The dateforupdate
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Datetime*
 * **Taxonomy Reference**
 http://data.europa.eu/949/dateForUpdate
 
@@ -1592,7 +1592,7 @@ The applycompliance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/applyCompliance
 
@@ -1644,7 +1644,7 @@ The complianceconfirmed
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/complianceConfirmed
 
@@ -1696,7 +1696,7 @@ The locomotivecleaning
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveCleaning
 
@@ -1748,7 +1748,7 @@ The wagoncleaning
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonCleaning
 
@@ -1800,7 +1800,7 @@ The locomotiveparking
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveParking
 
@@ -1852,7 +1852,7 @@ The wagonparking
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonParking
 
@@ -1904,7 +1904,7 @@ The locomotiverepairmaintenancelight
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveRepairMaintenanceLight
 
@@ -1956,7 +1956,7 @@ The locomotiverepairmaintenanceheavy
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveRepairMaintenanceHeavy
 
@@ -2008,7 +2008,7 @@ The wagonrepairmaintenancelight
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonRepairMaintenanceLight
 
@@ -2060,7 +2060,7 @@ The wagonrepairmaintenanceheavy
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonRepairMaintenanceHeavy
 
@@ -2112,7 +2112,7 @@ The technicalinspectionofrollingstock
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/technicalInspectionOfRollingStock
 
@@ -2164,7 +2164,7 @@ The refuelling
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/refuelling
 
@@ -2216,7 +2216,7 @@ The shunting
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/shunting
 
@@ -2268,7 +2268,7 @@ The provisionemergencyequipment
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/provisionEmergencyEquipment
 
@@ -2320,7 +2320,7 @@ The securityservices
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/securityServices
 
@@ -2372,7 +2372,7 @@ The tractioncurrent
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/tractionCurrent
 
@@ -2424,7 +2424,7 @@ The accesstotelecommunicationnetworks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessToTelecommunicationNetworks
 
@@ -2476,7 +2476,7 @@ The provisionsupplementaryinformation
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/provisionSupplementaryInformation
 
@@ -2528,7 +2528,7 @@ The otherservices
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherServices
 
@@ -2580,7 +2580,7 @@ The descriptionofservices
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionOfServices
 
@@ -2632,7 +2632,7 @@ The timetableservicetrains
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/timetableServiceTrains
 
@@ -2684,7 +2684,7 @@ The facilitycertificates
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityCertificates
 
@@ -2736,7 +2736,7 @@ The loadingunloadingtranshipment
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnloadingTranshipment
 
@@ -2788,7 +2788,7 @@ The loadingunitcleaning
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitCleaning
 
@@ -2840,7 +2840,7 @@ The loadingunitfumigationdisinfection
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitFumigationDisinfection
 
@@ -2892,7 +2892,7 @@ The loadingunitrepairmaintenance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitRepairMaintenance
 
@@ -2944,7 +2944,7 @@ The loadingunitventilation
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitVentilation
 
@@ -2996,7 +2996,7 @@ The orderpickingwarehousing
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/orderPickingWarehousing
 
@@ -3048,7 +3048,7 @@ The storagecontainersgeneralcargo
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageContainersGeneralCargo
 
@@ -3100,7 +3100,7 @@ The storagedangerousgoods
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageDangerousGoods
 
@@ -3152,7 +3152,7 @@ The storageridclasses
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageRidClasses
 
@@ -3204,7 +3204,7 @@ The storagehandlingreefers
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageHandlingReefers
 
@@ -3256,7 +3256,7 @@ The stuffingstripping
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/stuffingStripping
 
@@ -3308,7 +3308,7 @@ The containerlashing
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerLashing
 
@@ -3360,7 +3360,7 @@ The weighingwagonsloadingunits
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/weighingWagonsLoadingUnits
 
@@ -3412,7 +3412,7 @@ The containersalesleasing
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerSalesLeasing
 
@@ -3464,7 +3464,7 @@ The customsclearance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/customsClearance
 
@@ -3516,7 +3516,7 @@ The trucking
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trucking
 
@@ -3568,7 +3568,7 @@ The tailormadecontractsdangerousgoods
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/tailormadeContractsDangerousGoods
 
@@ -3620,7 +3620,7 @@ The tailormadecontractsabnormaltrains
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/tailormadeContractsAbnormalTrains
 
@@ -3672,7 +3672,7 @@ The trainboardingdeboarding
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trainBoardingDeboarding
 
@@ -3724,7 +3724,7 @@ The ticketingservices
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ticketingServices
 
@@ -3776,7 +3776,7 @@ The assistanceforpersonswithreducedmobility
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/assistanceForPersonsWithReducedMobility
 
@@ -3828,7 +3828,7 @@ The lostandfound
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/lostAndFound
 
@@ -3880,7 +3880,7 @@ The luggagestoring
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/luggageStoring
 
@@ -3932,7 +3932,7 @@ The waitingareasandweaterprotection
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/waitingAreasAndWeaterProtection
 
@@ -3984,7 +3984,7 @@ The iceprotection
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/iceProtection
 
@@ -4036,7 +4036,7 @@ The preheatingprecooling
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/preHeatingPreCooling
 
@@ -4088,7 +4088,7 @@ The sewagedisposalwatersupply
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sewageDisposalWaterSupply
 
@@ -4140,7 +4140,7 @@ The useofmotorailfacilities
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/useOfMotorailFacilities
 
@@ -4192,7 +4192,7 @@ The longitude
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/longitude
 
@@ -4244,7 +4244,7 @@ The latitude
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/latitude
 
@@ -4296,7 +4296,7 @@ The crdprimarylocation
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/crdPrimaryLocation
 
@@ -4348,7 +4348,7 @@ The crdsubsidiarylocation
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/crdSubsidiaryLocation
 
@@ -4400,7 +4400,7 @@ The rinfoperationalpoint
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/rinfOperationalPoint
 
@@ -4452,7 +4452,7 @@ The facilitystreet
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityStreet
 
@@ -4504,7 +4504,7 @@ The facilityzip
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityZip
 
@@ -4556,7 +4556,7 @@ The facilitytown
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityTown
 
@@ -4608,7 +4608,7 @@ The facilitycountry
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityCountry
 
@@ -4660,7 +4660,7 @@ The connectiontopublicrailnetwork
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/connectionToPublicRailNetwork
 
@@ -4712,7 +4712,7 @@ The facilitylocatedonrfc
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityLocatedOnRfc
 
@@ -4764,7 +4764,7 @@ The roadaccessconditions
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/roadAccessConditions
 
@@ -4816,7 +4816,7 @@ The operationstatus
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operationStatus
 
@@ -4868,7 +4868,7 @@ The openingtimes
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/openingTimes
 
@@ -4920,7 +4920,7 @@ The openondemand
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/openOnDemand
 
@@ -4972,7 +4972,7 @@ The totalnumberoftracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfTracks
 
@@ -5024,7 +5024,7 @@ The totalnumberofplatformtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfPlatformTracks
 
@@ -5076,7 +5076,7 @@ The thereofelectrifiedplatformtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedPlatformTracks
 
@@ -5128,7 +5128,7 @@ The maxusablelengthplatformtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthPlatformTracks
 
@@ -5180,7 +5180,7 @@ The totalnumberoftranshipmenttracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfTranshipmentTracks
 
@@ -5232,7 +5232,7 @@ The thereofelectrifiedtranshipmenttracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedTranshipmentTracks
 
@@ -5284,7 +5284,7 @@ The maxusablelengthtranshipmenttracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthTranshipmentTracks
 
@@ -5336,7 +5336,7 @@ The totalnumberofstoragetracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfStorageTracks
 
@@ -5388,7 +5388,7 @@ The thereofelectrifiedstoragetracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedStorageTracks
 
@@ -5440,7 +5440,7 @@ The maxusablelengthstoragetracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthStorageTracks
 
@@ -5492,7 +5492,7 @@ The totalnumberofshuntingtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfShuntingTracks
 
@@ -5544,7 +5544,7 @@ The thereofelectrifiedshuntingtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedShuntingTracks
 
@@ -5596,7 +5596,7 @@ The maxusablelengthshuntingtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthShuntingTracks
 
@@ -5648,7 +5648,7 @@ The totalnumberofinboundoutboundtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfInboundOutboundTracks
 
@@ -5700,7 +5700,7 @@ The thereofelectrifiedinboundoutboundtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedInboundOutboundTracks
 
@@ -5752,7 +5752,7 @@ The maxusablelengthinboundoutboundtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthInboundOutboundTracks
 
@@ -5804,7 +5804,7 @@ The totalnumberofallocationtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfAllocationTracks
 
@@ -5856,7 +5856,7 @@ The thereofelectrifiedallocationtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedAllocationTracks
 
@@ -5908,7 +5908,7 @@ The maxusablelengthallocationtracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthAllocationTracks
 
@@ -5960,7 +5960,7 @@ The totalnumberofothertracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfOtherTracks
 
@@ -6012,7 +6012,7 @@ The thereofelectrifiedothertracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedOtherTracks
 
@@ -6064,7 +6064,7 @@ The maxusablelengthothertracks
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthOtherTracks
 
@@ -6116,7 +6116,7 @@ The descriptionoftechnicalcharacteristics
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionOfTechnicalCharacteristics
 
@@ -6168,7 +6168,7 @@ The technicalmap
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/technicalMap
 
@@ -6220,7 +6220,7 @@ The braketestfacility
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/brakeTestFacility
 
@@ -6272,7 +6272,7 @@ The compressedairsupply
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/compressedAirSupply
 
@@ -6324,7 +6324,7 @@ The turntable
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/turntable
 
@@ -6376,7 +6376,7 @@ The locomotivewashingcleaning
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveWashingCleaning
 
@@ -6428,7 +6428,7 @@ The wagonwashingcleaning
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonWashingCleaning
 
@@ -6480,7 +6480,7 @@ The loadingunitwashingcleaning
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitWashingCleaning
 
@@ -6532,7 +6532,7 @@ The maintenanceshoplight
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maintenanceShopLight
 
@@ -6584,7 +6584,7 @@ The maintenanceshopheavy
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maintenanceShopHeavy
 
@@ -6636,7 +6636,7 @@ The otherequipment
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherEquipment
 
@@ -6688,7 +6688,7 @@ The descriptiontechnicalequipment
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionTechnicalEquipment
 
@@ -6740,7 +6740,7 @@ The numberofgantrycranes
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfGantryCranes
 
@@ -6792,7 +6792,7 @@ The numberofmobilecranes
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfMobileCranes
 
@@ -6844,7 +6844,7 @@ The horizontaltranshipmentsystems
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/horizontalTranshipmentSystems
 
@@ -6896,7 +6896,7 @@ The headramp
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/headRamp
 
@@ -6948,7 +6948,7 @@ The sideramp
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sideRamp
 
@@ -7000,7 +7000,7 @@ The loadinglane
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingLane
 
@@ -7052,7 +7052,7 @@ The hump
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/hump
 
@@ -7104,7 +7104,7 @@ The trackscale
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trackScale
 
@@ -7156,7 +7156,7 @@ The opticalcharacterrecognition
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/opticalCharacterRecognition
 
@@ -7208,7 +7208,7 @@ The numberofreeferconnections
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfReeferConnections
 
@@ -7260,7 +7260,7 @@ The storageaream2
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageAreaM2
 
@@ -7312,7 +7312,7 @@ The storageareateu
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageAreaTeu
 
@@ -7364,7 +7364,7 @@ The emptycontainerdepot
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/emptyContainerDepot
 
@@ -7416,7 +7416,7 @@ The numberofplatforms
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfPlatforms
 
@@ -7468,7 +7468,7 @@ The maxplatformlength
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPlatformLength
 
@@ -7520,7 +7520,7 @@ The maxplatformheight
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPlatformHeight
 
@@ -7572,7 +7572,7 @@ The minplatformheight
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/minPlatformHeight
 
@@ -7624,7 +7624,7 @@ The escalatorrampforplatformaccess
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/escalatorRampForPlatformAccess
 
@@ -7676,7 +7676,7 @@ The weatherprotectionforpassengers
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/weatherProtectionForPassengers
 
@@ -7728,7 +7728,7 @@ The plannedchangestechnicalcharacteristics
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/plannedChangesTechnicalCharacteristics
 
@@ -7780,7 +7780,7 @@ The informationoncharges
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/informationOnCharges
 
@@ -7832,7 +7832,7 @@ The informationondiscounts
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/informationOnDiscounts
 
@@ -7884,7 +7884,7 @@ The publicaccessibility
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/publicAccessibility
 
@@ -7936,7 +7936,7 @@ The legalrequirements
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/legalRequirements
 
@@ -7988,7 +7988,7 @@ The electrifiedrailaccesspossible
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/electrifiedRailAccessPossible
 
@@ -8040,7 +8040,7 @@ The maxpermittedtrainlength
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPermittedTrainLength
 
@@ -8092,7 +8092,7 @@ The maxpermittedaxleload
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPermittedAxleLoad
 
@@ -8144,7 +8144,7 @@ The mintrackradius
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/minTrackRadius
 
@@ -8196,7 +8196,7 @@ The clearancegauge
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/clearanceGauge
 
@@ -8248,7 +8248,7 @@ The lengthofaccessbranchline
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/lengthOfAccessBranchLine
 
@@ -8300,7 +8300,7 @@ The accesslineelectrification
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineElectrification
 
@@ -8352,7 +8352,7 @@ The accesslinemaxpermittedtrainlength
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxPermittedTrainLength
 
@@ -8404,7 +8404,7 @@ The accesslinemaxaxleload
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxAxleLoad
 
@@ -8456,7 +8456,7 @@ The accesslinemintrackradius
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMinTrackRadius
 
@@ -8508,7 +8508,7 @@ The accesslineclearancegauge
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineClearanceGauge
 
@@ -8560,7 +8560,7 @@ The accesslinemaxincline
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxIncline
 
@@ -8612,7 +8612,7 @@ The containeracceptance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerAcceptance
 
@@ -8664,7 +8664,7 @@ The containersizelimit
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerSizeLimit
 
@@ -8716,7 +8716,7 @@ The containerweightlimit
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerWeightLimit
 
@@ -8768,7 +8768,7 @@ The swapbodyacceptance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodyAcceptance
 
@@ -8820,7 +8820,7 @@ The swapbodysizelimit
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodySizeLimit
 
@@ -8872,7 +8872,7 @@ The swapbodyweightlimit
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodyWeightLimit
 
@@ -8924,7 +8924,7 @@ The traileracceptance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerAcceptance
 
@@ -8976,7 +8976,7 @@ The trailersizelimit
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerSizeLimit
 
@@ -9028,7 +9028,7 @@ The trailerweightlimit
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerWeightLimit
 
@@ -9080,7 +9080,7 @@ The trucktraileracceptance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/truckTrailerAcceptance
 
@@ -9132,7 +9132,7 @@ The conventionalcargoacceptance
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/conventionalCargoAcceptance
 
@@ -9184,7 +9184,7 @@ The palletisedgoods
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/palletisedGoods
 
@@ -9236,7 +9236,7 @@ The bulk
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/bulk
 
@@ -9288,7 +9288,7 @@ The fluidsandgas
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/fluidsAndGas
 
@@ -9340,7 +9340,7 @@ The dangerousgoods
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/dangerousGoods
 
@@ -9392,7 +9392,7 @@ The ridclasses
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ridClasses
 
@@ -9444,7 +9444,7 @@ The wood
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wood
 
@@ -9496,7 +9496,7 @@ The heavyloads
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/heavyLoads
 
@@ -9548,7 +9548,7 @@ The reefercargo
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/reeferCargo
 
@@ -9600,7 +9600,7 @@ The othercargotypes
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherCargoTypes
 
@@ -9652,7 +9652,7 @@ The selfsupplyofrailrelatedservices
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/selfSupplyOfRailRelatedServices
 
@@ -9704,7 +9704,7 @@ The itsystems
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/itSystems
 
@@ -9756,7 +9756,7 @@ The requestsforaccessorservices
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/requestsForAccessOrServices
 
@@ -9808,7 +9808,7 @@ The bookingconditions
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/bookingConditions
 
@@ -9860,7 +9860,7 @@ The responsetorequests
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/responseToRequests
 
@@ -9912,7 +9912,7 @@ The availablecapacity
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/availableCapacity
 
@@ -9964,7 +9964,7 @@ The temporarycapacityrestrictions
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/temporaryCapacityRestrictions
 
@@ -10016,7 +10016,7 @@ The cooperationbetweensfandim
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+-
 * **Taxonomy Reference**
 http://data.europa.eu/949/cooperationBetweenSfAndIm
 
@@ -10068,7 +10068,7 @@ The statuschange
 
 ### Data Format
 * **Data Presentation**
-[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
+*Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/statusChange
 
