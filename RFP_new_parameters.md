@@ -297,6 +297,22 @@ Facility type
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityType
+* **Values**
+
+| Code | Value |
+|------|-------|
+| 1    | Passenger station     |
+| 2    | Intermodal terminal     |
+| 3    | Multifunctional rail terminal     |
+| 4    | Public siding     |
+| 5    | Private siding     |
+| 6    | Marshalling yard     |
+| 7    | Storage siding     |
+| 8    | Maintenance facility     |
+| 9    | Other technical facility     |
+| 10   | Relief facility    |
+| 11   | Refuelling facility    |
+| 12   | Mobile service provider    |
 
 ### Belongs to parameters group
 
@@ -328,19 +344,30 @@ http://data.europa.eu/949/ServiceFacility
 
 * **General explanation**:
   	This property is considered as general information (type 1).
-	Selection list:
-		1 = Passenger station
-		2 = Intermodal terminal
-		3 = Multifunctional rail terminal
-		4 = Public siding
-		5 = Private siding
-		6 = Marshalling yard
-		7 = Storage siding
-		8 = Maintenance facility
-		9 = Other technical facility
-		10 = Relief facility
-		11 = Refuelling facility
-		12 = Mobile service provider
+  
+  1 = Passenger station - Train station for passenger traffic, equipped with specific facilities for the access of the passengers and providing related services.
+  
+  2 = Intermodal terminal - Location which provides the space, equipment and operational environment under which the loading units (freight containers, swap bodies, semi-trailers or trailers) transfer takes place.
+  
+  3 = Multifunctional rail terminal - 
+  
+  4 = Public siding - Any track(s) within an operational point which is not used for operational routing of a train.
+
+  5 = Private siding - Privately operated pieces of rail infrastructure, connecting loading facilities (normally industry and other manufacturing sites) to the public rail network.
+  
+  6 = Marshalling yard - Site especially equipped with a number of tracks or other equipment for railway vehicle marshalling (switching) operations. Sometimes also referred to as classification yard.
+  
+  7 = Storage siding - Sidings specifically dedicated to temporary parking of railway vehicles between two assignments.
+  
+  8 = Maintenance facility - 
+  
+  9 = Other technical facility
+  
+  10 = Relief facility
+  
+  11 = Refueling facility
+  
+  12 = Mobile service provider
 
 * **Regulation**: 
 	Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177) 
