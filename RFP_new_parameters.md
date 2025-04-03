@@ -174,19 +174,23 @@ http://data.europa.eu/949/ServiceFacility
 * **Regulation**: 
 	Mandatory by law (points 2, 3 and 4 of Annex II to Dir. 2012/34/EU and Art. 1 of Reg. 2017/2177)
 
+------------------------------------------------------------
 
 ## id
-Description for id.
+The id
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.9.19
+
 **XML Name**: id
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/id
 
 ### Belongs to parameters group
 
@@ -195,7 +199,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -225,17 +229,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## mainDataSource
-Description for mainDataSource.
+The maindatasource
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.3.81
+
 **XML Name**: mainDataSource
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/mainDataSource
 
 ### Belongs to parameters group
 
@@ -244,7 +251,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -274,17 +281,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityType
-Description for facilityType.
+The facilitytype
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.6.94
+
 **XML Name**: facilityType
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityType
 
 ### Belongs to parameters group
 
@@ -293,7 +303,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -323,17 +333,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityName
-Description for facilityName.
+The facilityname
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.7.25
+
 **XML Name**: facilityName
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityName
 
 ### Belongs to parameters group
 
@@ -342,7 +355,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -372,17 +385,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaSeaport
-Description for areaSeaport.
+The areaseaport
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.2.7
+
 **XML Name**: areaSeaport
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/areaSeaport
 
 ### Belongs to parameters group
 
@@ -391,7 +407,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -421,17 +437,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaInlandPort
-Description for areaInlandPort.
+The areainlandport
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.1.92
+
 **XML Name**: areaInlandPort
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/areaInlandPort
 
 ### Belongs to parameters group
 
@@ -440,7 +459,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -470,17 +489,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaFreightVillage
-Description for areaFreightVillage.
+The areafreightvillage
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.9.53
+
 **XML Name**: areaFreightVillage
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/areaFreightVillage
 
 ### Belongs to parameters group
 
@@ -489,7 +511,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -519,17 +541,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## exempted
-Description for exempted.
+The exempted
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.5.17
+
 **XML Name**: exempted
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/exempted
 
 ### Belongs to parameters group
 
@@ -538,7 +563,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -568,17 +593,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## linkToAdditionalDocuments
-Description for linkToAdditionalDocuments.
+The linktoadditionaldocuments
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.2.82
+
 **XML Name**: linkToAdditionalDocuments
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/linkToAdditionalDocuments
 
 ### Belongs to parameters group
 
@@ -587,7 +615,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -617,17 +645,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## purposeOfSfDeclaration
-Description for purposeOfSfDeclaration.
+The purposeofsfdeclaration
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.7.30
+
 **XML Name**: purposeOfSfDeclaration
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/purposeOfSfDeclaration
 
 ### Belongs to parameters group
 
@@ -636,7 +667,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -666,17 +697,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## briefPresentation
-Description for briefPresentation.
+The briefpresentation
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.9.28
+
 **XML Name**: briefPresentation
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/briefPresentation
 
 ### Belongs to parameters group
 
@@ -685,7 +719,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -715,17 +749,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorName
-Description for operatorName.
+The operatorname
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.6.21
+
 **XML Name**: operatorName
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorName
 
 ### Belongs to parameters group
 
@@ -734,7 +771,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -764,17 +801,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operator
-Description for operator.
+The operator
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.7.12
+
 **XML Name**: operator
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operator
 
 ### Belongs to parameters group
 
@@ -783,7 +823,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -813,17 +853,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorType
-Description for operatorType.
+The operatortype
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.5.62
+
 **XML Name**: operatorType
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorType
 
 ### Belongs to parameters group
 
@@ -832,7 +875,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -862,17 +905,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorOtherType
-Description for operatorOtherType.
+The operatorothertype
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.7.26
+
 **XML Name**: operatorOtherType
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorOtherType
 
 ### Belongs to parameters group
 
@@ -881,7 +927,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -911,17 +957,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorContact
-Description for operatorContact.
+The operatorcontact
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.1.99
+
 **XML Name**: operatorContact
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorContact
 
 ### Belongs to parameters group
 
@@ -930,7 +979,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -960,17 +1009,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorPhone
-Description for operatorPhone.
+The operatorphone
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.8.44
+
 **XML Name**: operatorPhone
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorPhone
 
 ### Belongs to parameters group
 
@@ -979,7 +1031,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1009,17 +1061,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorFax
-Description for operatorFax.
+The operatorfax
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.9.13
+
 **XML Name**: operatorFax
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorFax
 
 ### Belongs to parameters group
 
@@ -1028,7 +1083,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1058,17 +1113,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorEmail
-Description for operatorEmail.
+The operatoremail
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.7.86
+
 **XML Name**: operatorEmail
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorEmail
 
 ### Belongs to parameters group
 
@@ -1077,7 +1135,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1107,17 +1165,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorWebsite
-Description for operatorWebsite.
+The operatorwebsite
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.5.42
+
 **XML Name**: operatorWebsite
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorWebsite
 
 ### Belongs to parameters group
 
@@ -1126,7 +1187,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1156,17 +1217,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityOwner
-Description for facilityOwner.
+The facilityowner
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.3.64
+
 **XML Name**: facilityOwner
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityOwner
 
 ### Belongs to parameters group
 
@@ -1175,7 +1239,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1205,17 +1269,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ownerType
-Description for ownerType.
+The ownertype
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.5.98
+
 **XML Name**: ownerType
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/ownerType
 
 ### Belongs to parameters group
 
@@ -1224,7 +1291,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1254,17 +1321,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ownerOtherType
-Description for ownerOtherType.
+The ownerothertype
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.17
+
 **XML Name**: ownerOtherType
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/ownerOtherType
 
 ### Belongs to parameters group
 
@@ -1273,7 +1343,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1303,17 +1373,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorsRelation
-Description for operatorsRelation.
+The operatorsrelation
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.6.37
+
 **XML Name**: operatorsRelation
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operatorsRelation
 
 ### Belongs to parameters group
 
@@ -1322,7 +1395,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1352,17 +1425,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sfDataValidUntil
-Description for sfDataValidUntil.
+The sfdatavaliduntil
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.1.75
+
 **XML Name**: sfDataValidUntil
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/sfDataValidUntil
 
 ### Belongs to parameters group
 
@@ -1371,7 +1447,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1401,17 +1477,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sfDataUpdateProcedure
-Description for sfDataUpdateProcedure.
+The sfdataupdateprocedure
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.8.59
+
 **XML Name**: sfDataUpdateProcedure
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/sfDataUpdateProcedure
 
 ### Belongs to parameters group
 
@@ -1420,7 +1499,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1450,17 +1529,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## dateForUpdate
-Description for dateForUpdate.
+The dateforupdate
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.9.38
+
 **XML Name**: dateForUpdate
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/dateForUpdate
 
 ### Belongs to parameters group
 
@@ -1469,7 +1551,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1499,17 +1581,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## applyCompliance
-Description for applyCompliance.
+The applycompliance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.5.2
+
 **XML Name**: applyCompliance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/applyCompliance
 
 ### Belongs to parameters group
 
@@ -1518,7 +1603,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1548,17 +1633,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## complianceConfirmed
-Description for complianceConfirmed.
+The complianceconfirmed
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.8.42
+
 **XML Name**: complianceConfirmed
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/complianceConfirmed
 
 ### Belongs to parameters group
 
@@ -1567,7 +1655,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1597,17 +1685,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveCleaning
-Description for locomotiveCleaning.
+The locomotivecleaning
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.5.53
+
 **XML Name**: locomotiveCleaning
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/locomotiveCleaning
 
 ### Belongs to parameters group
 
@@ -1616,7 +1707,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1646,17 +1737,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonCleaning
-Description for wagonCleaning.
+The wagoncleaning
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.1.95
+
 **XML Name**: wagonCleaning
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/wagonCleaning
 
 ### Belongs to parameters group
 
@@ -1665,7 +1759,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1695,17 +1789,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveParking
-Description for locomotiveParking.
+The locomotiveparking
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.3.6
+
 **XML Name**: locomotiveParking
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/locomotiveParking
 
 ### Belongs to parameters group
 
@@ -1714,7 +1811,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1744,17 +1841,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonParking
-Description for wagonParking.
+The wagonparking
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.4.52
+
 **XML Name**: wagonParking
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/wagonParking
 
 ### Belongs to parameters group
 
@@ -1763,7 +1863,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1793,17 +1893,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveRepairMaintenanceLight
-Description for locomotiveRepairMaintenanceLight.
+The locomotiverepairmaintenancelight
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.6.45
+
 **XML Name**: locomotiveRepairMaintenanceLight
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/locomotiveRepairMaintenanceLight
 
 ### Belongs to parameters group
 
@@ -1812,7 +1915,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1842,17 +1945,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveRepairMaintenanceHeavy
-Description for locomotiveRepairMaintenanceHeavy.
+The locomotiverepairmaintenanceheavy
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.1.6
+
 **XML Name**: locomotiveRepairMaintenanceHeavy
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/locomotiveRepairMaintenanceHeavy
 
 ### Belongs to parameters group
 
@@ -1861,7 +1967,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1891,17 +1997,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonRepairMaintenanceLight
-Description for wagonRepairMaintenanceLight.
+The wagonrepairmaintenancelight
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.92
+
 **XML Name**: wagonRepairMaintenanceLight
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/wagonRepairMaintenanceLight
 
 ### Belongs to parameters group
 
@@ -1910,7 +2019,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1940,17 +2049,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonRepairMaintenanceHeavy
-Description for wagonRepairMaintenanceHeavy.
+The wagonrepairmaintenanceheavy
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.3.10
+
 **XML Name**: wagonRepairMaintenanceHeavy
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/wagonRepairMaintenanceHeavy
 
 ### Belongs to parameters group
 
@@ -1959,7 +2071,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -1989,17 +2101,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## technicalInspectionOfRollingStock
-Description for technicalInspectionOfRollingStock.
+The technicalinspectionofrollingstock
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.4.89
+
 **XML Name**: technicalInspectionOfRollingStock
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/technicalInspectionOfRollingStock
 
 ### Belongs to parameters group
 
@@ -2008,7 +2123,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2038,17 +2153,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## refuelling
-Description for refuelling.
+The refuelling
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.9.47
+
 **XML Name**: refuelling
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/refuelling
 
 ### Belongs to parameters group
 
@@ -2057,7 +2175,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2087,17 +2205,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## shunting
-Description for shunting.
+The shunting
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.5.84
+
 **XML Name**: shunting
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/shunting
 
 ### Belongs to parameters group
 
@@ -2106,7 +2227,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2136,17 +2257,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## provisionEmergencyEquipment
-Description for provisionEmergencyEquipment.
+The provisionemergencyequipment
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.1.69
+
 **XML Name**: provisionEmergencyEquipment
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/provisionEmergencyEquipment
 
 ### Belongs to parameters group
 
@@ -2155,7 +2279,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2185,17 +2309,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## securityServices
-Description for securityServices.
+The securityservices
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.1.31
+
 **XML Name**: securityServices
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/securityServices
 
 ### Belongs to parameters group
 
@@ -2204,7 +2331,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2234,17 +2361,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## tractionCurrent
-Description for tractionCurrent.
+The tractioncurrent
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.37
+
 **XML Name**: tractionCurrent
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/tractionCurrent
 
 ### Belongs to parameters group
 
@@ -2253,7 +2383,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2283,17 +2413,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessToTelecommunicationNetworks
-Description for accessToTelecommunicationNetworks.
+The accesstotelecommunicationnetworks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.8.87
+
 **XML Name**: accessToTelecommunicationNetworks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessToTelecommunicationNetworks
 
 ### Belongs to parameters group
 
@@ -2302,7 +2435,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2332,17 +2465,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## provisionSupplementaryInformation
-Description for provisionSupplementaryInformation.
+The provisionsupplementaryinformation
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.2.4
+
 **XML Name**: provisionSupplementaryInformation
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/provisionSupplementaryInformation
 
 ### Belongs to parameters group
 
@@ -2351,7 +2487,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2381,17 +2517,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## otherServices
-Description for otherServices.
+The otherservices
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.4.22
+
 **XML Name**: otherServices
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/otherServices
 
 ### Belongs to parameters group
 
@@ -2400,7 +2539,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2430,17 +2569,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## descriptionOfServices
-Description for descriptionOfServices.
+The descriptionofservices
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.35
+
 **XML Name**: descriptionOfServices
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/descriptionOfServices
 
 ### Belongs to parameters group
 
@@ -2449,7 +2591,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2479,17 +2621,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## timetableServiceTrains
-Description for timetableServiceTrains.
+The timetableservicetrains
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.1.67
+
 **XML Name**: timetableServiceTrains
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/timetableServiceTrains
 
 ### Belongs to parameters group
 
@@ -2498,7 +2643,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2528,17 +2673,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityCertificates
-Description for facilityCertificates.
+The facilitycertificates
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.44
+
 **XML Name**: facilityCertificates
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityCertificates
 
 ### Belongs to parameters group
 
@@ -2547,7 +2695,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2577,17 +2725,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnloadingTranshipment
-Description for loadingUnloadingTranshipment.
+The loadingunloadingtranshipment
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.5.89
+
 **XML Name**: loadingUnloadingTranshipment
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingUnloadingTranshipment
 
 ### Belongs to parameters group
 
@@ -2596,7 +2747,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2626,17 +2777,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitCleaning
-Description for loadingUnitCleaning.
+The loadingunitcleaning
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.6.74
+
 **XML Name**: loadingUnitCleaning
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingUnitCleaning
 
 ### Belongs to parameters group
 
@@ -2645,7 +2799,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2675,17 +2829,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitFumigationDisinfection
-Description for loadingUnitFumigationDisinfection.
+The loadingunitfumigationdisinfection
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.9.82
+
 **XML Name**: loadingUnitFumigationDisinfection
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingUnitFumigationDisinfection
 
 ### Belongs to parameters group
 
@@ -2694,7 +2851,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2724,17 +2881,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitRepairMaintenance
-Description for loadingUnitRepairMaintenance.
+The loadingunitrepairmaintenance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.4.22
+
 **XML Name**: loadingUnitRepairMaintenance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingUnitRepairMaintenance
 
 ### Belongs to parameters group
 
@@ -2743,7 +2903,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2773,17 +2933,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitVentilation
-Description for loadingUnitVentilation.
+The loadingunitventilation
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.2.82
+
 **XML Name**: loadingUnitVentilation
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingUnitVentilation
 
 ### Belongs to parameters group
 
@@ -2792,7 +2955,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2822,17 +2985,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## orderPickingWarehousing
-Description for orderPickingWarehousing.
+The orderpickingwarehousing
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.8.65
+
 **XML Name**: orderPickingWarehousing
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/orderPickingWarehousing
 
 ### Belongs to parameters group
 
@@ -2841,7 +3007,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2871,17 +3037,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageContainersGeneralCargo
-Description for storageContainersGeneralCargo.
+The storagecontainersgeneralcargo
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.1.4
+
 **XML Name**: storageContainersGeneralCargo
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/storageContainersGeneralCargo
 
 ### Belongs to parameters group
 
@@ -2890,7 +3059,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2920,17 +3089,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageDangerousGoods
-Description for storageDangerousGoods.
+The storagedangerousgoods
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.9.8
+
 **XML Name**: storageDangerousGoods
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/storageDangerousGoods
 
 ### Belongs to parameters group
 
@@ -2939,7 +3111,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -2969,17 +3141,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageRidClasses
-Description for storageRidClasses.
+The storageridclasses
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.2.6
+
 **XML Name**: storageRidClasses
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/storageRidClasses
 
 ### Belongs to parameters group
 
@@ -2988,7 +3163,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3018,17 +3193,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageHandlingReefers
-Description for storageHandlingReefers.
+The storagehandlingreefers
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.3.22
+
 **XML Name**: storageHandlingReefers
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/storageHandlingReefers
 
 ### Belongs to parameters group
 
@@ -3037,7 +3215,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3067,17 +3245,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## stuffingStripping
-Description for stuffingStripping.
+The stuffingstripping
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.90
+
 **XML Name**: stuffingStripping
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/stuffingStripping
 
 ### Belongs to parameters group
 
@@ -3086,7 +3267,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3116,17 +3297,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerLashing
-Description for containerLashing.
+The containerlashing
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.9.18
+
 **XML Name**: containerLashing
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/containerLashing
 
 ### Belongs to parameters group
 
@@ -3135,7 +3319,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3165,17 +3349,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## weighingWagonsLoadingUnits
-Description for weighingWagonsLoadingUnits.
+The weighingwagonsloadingunits
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.9.34
+
 **XML Name**: weighingWagonsLoadingUnits
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/weighingWagonsLoadingUnits
 
 ### Belongs to parameters group
 
@@ -3184,7 +3371,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3214,17 +3401,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerSalesLeasing
-Description for containerSalesLeasing.
+The containersalesleasing
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.3.56
+
 **XML Name**: containerSalesLeasing
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/containerSalesLeasing
 
 ### Belongs to parameters group
 
@@ -3233,7 +3423,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3263,17 +3453,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## customsClearance
-Description for customsClearance.
+The customsclearance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.2.37
+
 **XML Name**: customsClearance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/customsClearance
 
 ### Belongs to parameters group
 
@@ -3282,7 +3475,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3312,17 +3505,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trucking
-Description for trucking.
+The trucking
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.3.49
+
 **XML Name**: trucking
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/trucking
 
 ### Belongs to parameters group
 
@@ -3331,7 +3527,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3361,17 +3557,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## tailormadeContractsDangerousGoods
-Description for tailormadeContractsDangerousGoods.
+The tailormadecontractsdangerousgoods
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.8.21
+
 **XML Name**: tailormadeContractsDangerousGoods
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/tailormadeContractsDangerousGoods
 
 ### Belongs to parameters group
 
@@ -3380,7 +3579,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3410,17 +3609,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## tailormadeContractsAbnormalTrains
-Description for tailormadeContractsAbnormalTrains.
+The tailormadecontractsabnormaltrains
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.9.52
+
 **XML Name**: tailormadeContractsAbnormalTrains
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/tailormadeContractsAbnormalTrains
 
 ### Belongs to parameters group
 
@@ -3429,7 +3631,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3459,17 +3661,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trainBoardingDeboarding
-Description for trainBoardingDeboarding.
+The trainboardingdeboarding
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.7.99
+
 **XML Name**: trainBoardingDeboarding
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/trainBoardingDeboarding
 
 ### Belongs to parameters group
 
@@ -3478,7 +3683,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3508,17 +3713,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ticketingServices
-Description for ticketingServices.
+The ticketingservices
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.5.94
+
 **XML Name**: ticketingServices
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/ticketingServices
 
 ### Belongs to parameters group
 
@@ -3527,7 +3735,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3557,17 +3765,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## assistanceForPersonsWithReducedMobility
-Description for assistanceForPersonsWithReducedMobility.
+The assistanceforpersonswithreducedmobility
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.2.44
+
 **XML Name**: assistanceForPersonsWithReducedMobility
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/assistanceForPersonsWithReducedMobility
 
 ### Belongs to parameters group
 
@@ -3576,7 +3787,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3606,17 +3817,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## lostAndFound
-Description for lostAndFound.
+The lostandfound
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.3.45
+
 **XML Name**: lostAndFound
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/lostAndFound
 
 ### Belongs to parameters group
 
@@ -3625,7 +3839,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3655,17 +3869,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## luggageStoring
-Description for luggageStoring.
+The luggagestoring
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.1.32
+
 **XML Name**: luggageStoring
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/luggageStoring
 
 ### Belongs to parameters group
 
@@ -3674,7 +3891,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3704,17 +3921,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## waitingAreasAndWeaterProtection
-Description for waitingAreasAndWeaterProtection.
+The waitingareasandweaterprotection
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.1.91
+
 **XML Name**: waitingAreasAndWeaterProtection
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/waitingAreasAndWeaterProtection
 
 ### Belongs to parameters group
 
@@ -3723,7 +3943,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3753,17 +3973,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## iceProtection
-Description for iceProtection.
+The iceprotection
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.9.95
+
 **XML Name**: iceProtection
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/iceProtection
 
 ### Belongs to parameters group
 
@@ -3772,7 +3995,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3802,17 +4025,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## preHeatingPreCooling
-Description for preHeatingPreCooling.
+The preheatingprecooling
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.1.85
+
 **XML Name**: preHeatingPreCooling
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/preHeatingPreCooling
 
 ### Belongs to parameters group
 
@@ -3821,7 +4047,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3851,17 +4077,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sewageDisposalWaterSupply
-Description for sewageDisposalWaterSupply.
+The sewagedisposalwatersupply
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.7.54
+
 **XML Name**: sewageDisposalWaterSupply
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/sewageDisposalWaterSupply
 
 ### Belongs to parameters group
 
@@ -3870,7 +4099,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3900,17 +4129,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## useOfMotorailFacilities
-Description for useOfMotorailFacilities.
+The useofmotorailfacilities
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.3.31
+
 **XML Name**: useOfMotorailFacilities
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/useOfMotorailFacilities
 
 ### Belongs to parameters group
 
@@ -3919,7 +4151,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3949,17 +4181,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## longitude
-Description for longitude.
+The longitude
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.7.54
+
 **XML Name**: longitude
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/longitude
 
 ### Belongs to parameters group
 
@@ -3968,7 +4203,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -3998,17 +4233,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## latitude
-Description for latitude.
+The latitude
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.9.39
+
 **XML Name**: latitude
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/latitude
 
 ### Belongs to parameters group
 
@@ -4017,7 +4255,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4047,17 +4285,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## crdPrimaryLocation
-Description for crdPrimaryLocation.
+The crdprimarylocation
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.9.20
+
 **XML Name**: crdPrimaryLocation
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/crdPrimaryLocation
 
 ### Belongs to parameters group
 
@@ -4066,7 +4307,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4096,17 +4337,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## crdSubsidiaryLocation
-Description for crdSubsidiaryLocation.
+The crdsubsidiarylocation
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.9.74
+
 **XML Name**: crdSubsidiaryLocation
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/crdSubsidiaryLocation
 
 ### Belongs to parameters group
 
@@ -4115,7 +4359,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4145,17 +4389,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## rinfOperationalPoint
-Description for rinfOperationalPoint.
+The rinfoperationalpoint
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.4.50
+
 **XML Name**: rinfOperationalPoint
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/rinfOperationalPoint
 
 ### Belongs to parameters group
 
@@ -4164,7 +4411,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4194,17 +4441,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityStreet
-Description for facilityStreet.
+The facilitystreet
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.35
+
 **XML Name**: facilityStreet
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityStreet
 
 ### Belongs to parameters group
 
@@ -4213,7 +4463,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4243,17 +4493,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityZip
-Description for facilityZip.
+The facilityzip
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.5.72
+
 **XML Name**: facilityZip
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityZip
 
 ### Belongs to parameters group
 
@@ -4262,7 +4515,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4292,17 +4545,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityTown
-Description for facilityTown.
+The facilitytown
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.6.43
+
 **XML Name**: facilityTown
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityTown
 
 ### Belongs to parameters group
 
@@ -4311,7 +4567,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4341,17 +4597,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityCountry
-Description for facilityCountry.
+The facilitycountry
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.5.43
+
 **XML Name**: facilityCountry
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityCountry
 
 ### Belongs to parameters group
 
@@ -4360,7 +4619,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4390,17 +4649,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## connectionToPublicRailNetwork
-Description for connectionToPublicRailNetwork.
+The connectiontopublicrailnetwork
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.1.54
+
 **XML Name**: connectionToPublicRailNetwork
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/connectionToPublicRailNetwork
 
 ### Belongs to parameters group
 
@@ -4409,7 +4671,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4439,17 +4701,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityLocatedOnRfc
-Description for facilityLocatedOnRfc.
+The facilitylocatedonrfc
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.3.45
+
 **XML Name**: facilityLocatedOnRfc
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/facilityLocatedOnRfc
 
 ### Belongs to parameters group
 
@@ -4458,7 +4723,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4488,17 +4753,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## roadAccessConditions
-Description for roadAccessConditions.
+The roadaccessconditions
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.6.76
+
 **XML Name**: roadAccessConditions
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/roadAccessConditions
 
 ### Belongs to parameters group
 
@@ -4507,7 +4775,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4537,17 +4805,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operationStatus
-Description for operationStatus.
+The operationstatus
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.2.62
+
 **XML Name**: operationStatus
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/operationStatus
 
 ### Belongs to parameters group
 
@@ -4556,7 +4827,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4586,17 +4857,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## openingTimes
-Description for openingTimes.
+The openingtimes
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.5.81
+
 **XML Name**: openingTimes
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/openingTimes
 
 ### Belongs to parameters group
 
@@ -4605,7 +4879,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4635,17 +4909,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## openOnDemand
-Description for openOnDemand.
+The openondemand
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.6.51
+
 **XML Name**: openOnDemand
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/openOnDemand
 
 ### Belongs to parameters group
 
@@ -4654,7 +4931,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4684,17 +4961,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfTracks
-Description for totalNumberOfTracks.
+The totalnumberoftracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.6.33
+
 **XML Name**: totalNumberOfTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfTracks
 
 ### Belongs to parameters group
 
@@ -4703,7 +4983,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4733,17 +5013,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfPlatformTracks
-Description for totalNumberOfPlatformTracks.
+The totalnumberofplatformtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.6.63
+
 **XML Name**: totalNumberOfPlatformTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfPlatformTracks
 
 ### Belongs to parameters group
 
@@ -4752,7 +5035,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4782,17 +5065,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedPlatformTracks
-Description for thereofElectrifiedPlatformTracks.
+The thereofelectrifiedplatformtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.6.16
+
 **XML Name**: thereofElectrifiedPlatformTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedPlatformTracks
 
 ### Belongs to parameters group
 
@@ -4801,7 +5087,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4831,17 +5117,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthPlatformTracks
-Description for maxUsableLengthPlatformTracks.
+The maxusablelengthplatformtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.8.79
+
 **XML Name**: maxUsableLengthPlatformTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthPlatformTracks
 
 ### Belongs to parameters group
 
@@ -4850,7 +5139,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4880,17 +5169,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfTranshipmentTracks
-Description for totalNumberOfTranshipmentTracks.
+The totalnumberoftranshipmenttracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.8.56
+
 **XML Name**: totalNumberOfTranshipmentTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfTranshipmentTracks
 
 ### Belongs to parameters group
 
@@ -4899,7 +5191,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4929,17 +5221,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedTranshipmentTracks
-Description for thereofElectrifiedTranshipmentTracks.
+The thereofelectrifiedtranshipmenttracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.6.35
+
 **XML Name**: thereofElectrifiedTranshipmentTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedTranshipmentTracks
 
 ### Belongs to parameters group
 
@@ -4948,7 +5243,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -4978,17 +5273,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthTranshipmentTracks
-Description for maxUsableLengthTranshipmentTracks.
+The maxusablelengthtranshipmenttracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.5.38
+
 **XML Name**: maxUsableLengthTranshipmentTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthTranshipmentTracks
 
 ### Belongs to parameters group
 
@@ -4997,7 +5295,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5027,17 +5325,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfStorageTracks
-Description for totalNumberOfStorageTracks.
+The totalnumberofstoragetracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.9.87
+
 **XML Name**: totalNumberOfStorageTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfStorageTracks
 
 ### Belongs to parameters group
 
@@ -5046,7 +5347,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5076,17 +5377,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedStorageTracks
-Description for thereofElectrifiedStorageTracks.
+The thereofelectrifiedstoragetracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.1.91
+
 **XML Name**: thereofElectrifiedStorageTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedStorageTracks
 
 ### Belongs to parameters group
 
@@ -5095,7 +5399,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5125,17 +5429,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthStorageTracks
-Description for maxUsableLengthStorageTracks.
+The maxusablelengthstoragetracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.1.20
+
 **XML Name**: maxUsableLengthStorageTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthStorageTracks
 
 ### Belongs to parameters group
 
@@ -5144,7 +5451,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5174,17 +5481,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfShuntingTracks
-Description for totalNumberOfShuntingTracks.
+The totalnumberofshuntingtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.3.27
+
 **XML Name**: totalNumberOfShuntingTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfShuntingTracks
 
 ### Belongs to parameters group
 
@@ -5193,7 +5503,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5223,17 +5533,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedShuntingTracks
-Description for thereofElectrifiedShuntingTracks.
+The thereofelectrifiedshuntingtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.3.35
+
 **XML Name**: thereofElectrifiedShuntingTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedShuntingTracks
 
 ### Belongs to parameters group
 
@@ -5242,7 +5555,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5272,17 +5585,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthShuntingTracks
-Description for maxUsableLengthShuntingTracks.
+The maxusablelengthshuntingtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.8.63
+
 **XML Name**: maxUsableLengthShuntingTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthShuntingTracks
 
 ### Belongs to parameters group
 
@@ -5291,7 +5607,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5321,17 +5637,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfInboundOutboundTracks
-Description for totalNumberOfInboundOutboundTracks.
+The totalnumberofinboundoutboundtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.7.38
+
 **XML Name**: totalNumberOfInboundOutboundTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfInboundOutboundTracks
 
 ### Belongs to parameters group
 
@@ -5340,7 +5659,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5370,17 +5689,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedInboundOutboundTracks
-Description for thereofElectrifiedInboundOutboundTracks.
+The thereofelectrifiedinboundoutboundtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.1.56
+
 **XML Name**: thereofElectrifiedInboundOutboundTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedInboundOutboundTracks
 
 ### Belongs to parameters group
 
@@ -5389,7 +5711,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5419,17 +5741,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthInboundOutboundTracks
-Description for maxUsableLengthInboundOutboundTracks.
+The maxusablelengthinboundoutboundtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.4.38
+
 **XML Name**: maxUsableLengthInboundOutboundTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthInboundOutboundTracks
 
 ### Belongs to parameters group
 
@@ -5438,7 +5763,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5468,17 +5793,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfAllocationTracks
-Description for totalNumberOfAllocationTracks.
+The totalnumberofallocationtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.2.51
+
 **XML Name**: totalNumberOfAllocationTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfAllocationTracks
 
 ### Belongs to parameters group
 
@@ -5487,7 +5815,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5517,17 +5845,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedAllocationTracks
-Description for thereofElectrifiedAllocationTracks.
+The thereofelectrifiedallocationtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.2.22
+
 **XML Name**: thereofElectrifiedAllocationTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedAllocationTracks
 
 ### Belongs to parameters group
 
@@ -5536,7 +5867,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5566,17 +5897,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthAllocationTracks
-Description for maxUsableLengthAllocationTracks.
+The maxusablelengthallocationtracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.2.96
+
 **XML Name**: maxUsableLengthAllocationTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthAllocationTracks
 
 ### Belongs to parameters group
 
@@ -5585,7 +5919,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5615,17 +5949,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfOtherTracks
-Description for totalNumberOfOtherTracks.
+The totalnumberofothertracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.6.57
+
 **XML Name**: totalNumberOfOtherTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/totalNumberOfOtherTracks
 
 ### Belongs to parameters group
 
@@ -5634,7 +5971,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5664,17 +6001,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedOtherTracks
-Description for thereofElectrifiedOtherTracks.
+The thereofelectrifiedothertracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.2.49
+
 **XML Name**: thereofElectrifiedOtherTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/thereofElectrifiedOtherTracks
 
 ### Belongs to parameters group
 
@@ -5683,7 +6023,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5713,17 +6053,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthOtherTracks
-Description for maxUsableLengthOtherTracks.
+The maxusablelengthothertracks
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.7.16
+
 **XML Name**: maxUsableLengthOtherTracks
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxUsableLengthOtherTracks
 
 ### Belongs to parameters group
 
@@ -5732,7 +6075,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5762,17 +6105,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## descriptionOfTechnicalCharacteristics
-Description for descriptionOfTechnicalCharacteristics.
+The descriptionoftechnicalcharacteristics
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.6.34
+
 **XML Name**: descriptionOfTechnicalCharacteristics
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/descriptionOfTechnicalCharacteristics
 
 ### Belongs to parameters group
 
@@ -5781,7 +6127,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5811,17 +6157,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## technicalMap
-Description for technicalMap.
+The technicalmap
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.4.94
+
 **XML Name**: technicalMap
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/technicalMap
 
 ### Belongs to parameters group
 
@@ -5830,7 +6179,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5860,17 +6209,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## brakeTestFacility
-Description for brakeTestFacility.
+The braketestfacility
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.1.56
+
 **XML Name**: brakeTestFacility
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/brakeTestFacility
 
 ### Belongs to parameters group
 
@@ -5879,7 +6231,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5909,17 +6261,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## compressedAirSupply
-Description for compressedAirSupply.
+The compressedairsupply
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.2.64
+
 **XML Name**: compressedAirSupply
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/compressedAirSupply
 
 ### Belongs to parameters group
 
@@ -5928,7 +6283,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -5958,17 +6313,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## turntable
-Description for turntable.
+The turntable
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.5.8
+
 **XML Name**: turntable
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/turntable
 
 ### Belongs to parameters group
 
@@ -5977,7 +6335,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6007,17 +6365,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveWashingCleaning
-Description for locomotiveWashingCleaning.
+The locomotivewashingcleaning
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.7.31
+
 **XML Name**: locomotiveWashingCleaning
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/locomotiveWashingCleaning
 
 ### Belongs to parameters group
 
@@ -6026,7 +6387,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6056,17 +6417,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonWashingCleaning
-Description for wagonWashingCleaning.
+The wagonwashingcleaning
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.7.74
+
 **XML Name**: wagonWashingCleaning
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/wagonWashingCleaning
 
 ### Belongs to parameters group
 
@@ -6075,7 +6439,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6105,17 +6469,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitWashingCleaning
-Description for loadingUnitWashingCleaning.
+The loadingunitwashingcleaning
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.4.84
+
 **XML Name**: loadingUnitWashingCleaning
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingUnitWashingCleaning
 
 ### Belongs to parameters group
 
@@ -6124,7 +6491,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6154,17 +6521,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maintenanceShopLight
-Description for maintenanceShopLight.
+The maintenanceshoplight
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.7.89
+
 **XML Name**: maintenanceShopLight
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maintenanceShopLight
 
 ### Belongs to parameters group
 
@@ -6173,7 +6543,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6203,17 +6573,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maintenanceShopHeavy
-Description for maintenanceShopHeavy.
+The maintenanceshopheavy
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.6.2
+
 **XML Name**: maintenanceShopHeavy
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maintenanceShopHeavy
 
 ### Belongs to parameters group
 
@@ -6222,7 +6595,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6252,17 +6625,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## otherEquipment
-Description for otherEquipment.
+The otherequipment
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.4.48
+
 **XML Name**: otherEquipment
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/otherEquipment
 
 ### Belongs to parameters group
 
@@ -6271,7 +6647,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6301,17 +6677,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## descriptionTechnicalEquipment
-Description for descriptionTechnicalEquipment.
+The descriptiontechnicalequipment
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.7.43
+
 **XML Name**: descriptionTechnicalEquipment
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/descriptionTechnicalEquipment
 
 ### Belongs to parameters group
 
@@ -6320,7 +6699,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6350,17 +6729,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfGantryCranes
-Description for numberOfGantryCranes.
+The numberofgantrycranes
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.6.83
+
 **XML Name**: numberOfGantryCranes
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/numberOfGantryCranes
 
 ### Belongs to parameters group
 
@@ -6369,7 +6751,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6399,17 +6781,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfMobileCranes
-Description for numberOfMobileCranes.
+The numberofmobilecranes
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.8.71
+
 **XML Name**: numberOfMobileCranes
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/numberOfMobileCranes
 
 ### Belongs to parameters group
 
@@ -6418,7 +6803,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6448,17 +6833,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## horizontalTranshipmentSystems
-Description for horizontalTranshipmentSystems.
+The horizontaltranshipmentsystems
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.9.47
+
 **XML Name**: horizontalTranshipmentSystems
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/horizontalTranshipmentSystems
 
 ### Belongs to parameters group
 
@@ -6467,7 +6855,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6497,17 +6885,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## headRamp
-Description for headRamp.
+The headramp
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.5.84
+
 **XML Name**: headRamp
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/headRamp
 
 ### Belongs to parameters group
 
@@ -6516,7 +6907,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6546,17 +6937,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sideRamp
-Description for sideRamp.
+The sideramp
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.8.94
+
 **XML Name**: sideRamp
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/sideRamp
 
 ### Belongs to parameters group
 
@@ -6565,7 +6959,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6595,17 +6989,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingLane
-Description for loadingLane.
+The loadinglane
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.2.97
+
 **XML Name**: loadingLane
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/loadingLane
 
 ### Belongs to parameters group
 
@@ -6614,7 +7011,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6644,17 +7041,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## hump
-Description for hump.
+The hump
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.8.15
+
 **XML Name**: hump
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/hump
 
 ### Belongs to parameters group
 
@@ -6663,7 +7063,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6693,17 +7093,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trackScale
-Description for trackScale.
+The trackscale
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.5.78
+
 **XML Name**: trackScale
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/trackScale
 
 ### Belongs to parameters group
 
@@ -6712,7 +7115,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6742,17 +7145,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## opticalCharacterRecognition
-Description for opticalCharacterRecognition.
+The opticalcharacterrecognition
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.7.59
+
 **XML Name**: opticalCharacterRecognition
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/opticalCharacterRecognition
 
 ### Belongs to parameters group
 
@@ -6761,7 +7167,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6791,17 +7197,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfReeferConnections
-Description for numberOfReeferConnections.
+The numberofreeferconnections
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.2.16
+
 **XML Name**: numberOfReeferConnections
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/numberOfReeferConnections
 
 ### Belongs to parameters group
 
@@ -6810,7 +7219,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6840,17 +7249,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageAreaM2
-Description for storageAreaM2.
+The storageaream2
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.9.22
+
 **XML Name**: storageAreaM2
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/storageAreaM2
 
 ### Belongs to parameters group
 
@@ -6859,7 +7271,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6889,17 +7301,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageAreaTeu
-Description for storageAreaTeu.
+The storageareateu
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.8.5
+
 **XML Name**: storageAreaTeu
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/storageAreaTeu
 
 ### Belongs to parameters group
 
@@ -6908,7 +7323,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6938,17 +7353,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## emptyContainerDepot
-Description for emptyContainerDepot.
+The emptycontainerdepot
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.5.88
+
 **XML Name**: emptyContainerDepot
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/emptyContainerDepot
 
 ### Belongs to parameters group
 
@@ -6957,7 +7375,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -6987,17 +7405,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfPlatforms
-Description for numberOfPlatforms.
+The numberofplatforms
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.1.90
+
 **XML Name**: numberOfPlatforms
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/numberOfPlatforms
 
 ### Belongs to parameters group
 
@@ -7006,7 +7427,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7036,17 +7457,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPlatformLength
-Description for maxPlatformLength.
+The maxplatformlength
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.6.50
+
 **XML Name**: maxPlatformLength
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxPlatformLength
 
 ### Belongs to parameters group
 
@@ -7055,7 +7479,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7085,17 +7509,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPlatformHeight
-Description for maxPlatformHeight.
+The maxplatformheight
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.5.37
+
 **XML Name**: maxPlatformHeight
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxPlatformHeight
 
 ### Belongs to parameters group
 
@@ -7104,7 +7531,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7134,17 +7561,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## minPlatformHeight
-Description for minPlatformHeight.
+The minplatformheight
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.1.44
+
 **XML Name**: minPlatformHeight
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/minPlatformHeight
 
 ### Belongs to parameters group
 
@@ -7153,7 +7583,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7183,17 +7613,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## escalatorRampForPlatformAccess
-Description for escalatorRampForPlatformAccess.
+The escalatorrampforplatformaccess
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.3.74
+
 **XML Name**: escalatorRampForPlatformAccess
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/escalatorRampForPlatformAccess
 
 ### Belongs to parameters group
 
@@ -7202,7 +7635,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7232,17 +7665,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## weatherProtectionForPassengers
-Description for weatherProtectionForPassengers.
+The weatherprotectionforpassengers
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.4.56
+
 **XML Name**: weatherProtectionForPassengers
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/weatherProtectionForPassengers
 
 ### Belongs to parameters group
 
@@ -7251,7 +7687,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7281,17 +7717,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## plannedChangesTechnicalCharacteristics
-Description for plannedChangesTechnicalCharacteristics.
+The plannedchangestechnicalcharacteristics
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.3.75
+
 **XML Name**: plannedChangesTechnicalCharacteristics
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/plannedChangesTechnicalCharacteristics
 
 ### Belongs to parameters group
 
@@ -7300,7 +7739,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7330,17 +7769,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## informationOnCharges
-Description for informationOnCharges.
+The informationoncharges
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.2.55
+
 **XML Name**: informationOnCharges
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/informationOnCharges
 
 ### Belongs to parameters group
 
@@ -7349,7 +7791,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7379,17 +7821,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## informationOnDiscounts
-Description for informationOnDiscounts.
+The informationondiscounts
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.8.31
+
 **XML Name**: informationOnDiscounts
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/informationOnDiscounts
 
 ### Belongs to parameters group
 
@@ -7398,7 +7843,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7428,17 +7873,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## publicAccessibility
-Description for publicAccessibility.
+The publicaccessibility
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.3.56
+
 **XML Name**: publicAccessibility
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/publicAccessibility
 
 ### Belongs to parameters group
 
@@ -7447,7 +7895,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7477,17 +7925,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## legalRequirements
-Description for legalRequirements.
+The legalrequirements
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.8.22
+
 **XML Name**: legalRequirements
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/legalRequirements
 
 ### Belongs to parameters group
 
@@ -7496,7 +7947,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7526,17 +7977,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## electrifiedRailAccessPossible
-Description for electrifiedRailAccessPossible.
+The electrifiedrailaccesspossible
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.5.43
+
 **XML Name**: electrifiedRailAccessPossible
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/electrifiedRailAccessPossible
 
 ### Belongs to parameters group
 
@@ -7545,7 +7999,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7575,17 +8029,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPermittedTrainLength
-Description for maxPermittedTrainLength.
+The maxpermittedtrainlength
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.2.50
+
 **XML Name**: maxPermittedTrainLength
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxPermittedTrainLength
 
 ### Belongs to parameters group
 
@@ -7594,7 +8051,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7624,17 +8081,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPermittedAxleLoad
-Description for maxPermittedAxleLoad.
+The maxpermittedaxleload
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.7.51
+
 **XML Name**: maxPermittedAxleLoad
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/maxPermittedAxleLoad
 
 ### Belongs to parameters group
 
@@ -7643,7 +8103,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7673,17 +8133,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## minTrackRadius
-Description for minTrackRadius.
+The mintrackradius
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.4.16
+
 **XML Name**: minTrackRadius
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/minTrackRadius
 
 ### Belongs to parameters group
 
@@ -7692,7 +8155,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7722,17 +8185,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## clearanceGauge
-Description for clearanceGauge.
+The clearancegauge
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.8.62
+
 **XML Name**: clearanceGauge
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/clearanceGauge
 
 ### Belongs to parameters group
 
@@ -7741,7 +8207,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7771,17 +8237,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## lengthOfAccessBranchLine
-Description for lengthOfAccessBranchLine.
+The lengthofaccessbranchline
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.4.10
+
 **XML Name**: lengthOfAccessBranchLine
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/lengthOfAccessBranchLine
 
 ### Belongs to parameters group
 
@@ -7790,7 +8259,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7820,17 +8289,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineElectrification
-Description for accessLineElectrification.
+The accesslineelectrification
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.1.25
+
 **XML Name**: accessLineElectrification
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessLineElectrification
 
 ### Belongs to parameters group
 
@@ -7839,7 +8311,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7869,17 +8341,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMaxPermittedTrainLength
-Description for accessLineMaxPermittedTrainLength.
+The accesslinemaxpermittedtrainlength
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.5.97
+
 **XML Name**: accessLineMaxPermittedTrainLength
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessLineMaxPermittedTrainLength
 
 ### Belongs to parameters group
 
@@ -7888,7 +8363,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7918,17 +8393,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMaxAxleLoad
-Description for accessLineMaxAxleLoad.
+The accesslinemaxaxleload
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.7.71
+
 **XML Name**: accessLineMaxAxleLoad
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessLineMaxAxleLoad
 
 ### Belongs to parameters group
 
@@ -7937,7 +8415,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -7967,17 +8445,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMinTrackRadius
-Description for accessLineMinTrackRadius.
+The accesslinemintrackradius
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.8.30
+
 **XML Name**: accessLineMinTrackRadius
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessLineMinTrackRadius
 
 ### Belongs to parameters group
 
@@ -7986,7 +8467,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8016,17 +8497,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineClearanceGauge
-Description for accessLineClearanceGauge.
+The accesslineclearancegauge
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.9.60
+
 **XML Name**: accessLineClearanceGauge
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessLineClearanceGauge
 
 ### Belongs to parameters group
 
@@ -8035,7 +8519,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8065,17 +8549,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMaxIncline
-Description for accessLineMaxIncline.
+The accesslinemaxincline
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.6.27
+
 **XML Name**: accessLineMaxIncline
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/accessLineMaxIncline
 
 ### Belongs to parameters group
 
@@ -8084,7 +8571,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8114,17 +8601,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerAcceptance
-Description for containerAcceptance.
+The containeracceptance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.4.50
+
 **XML Name**: containerAcceptance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/containerAcceptance
 
 ### Belongs to parameters group
 
@@ -8133,7 +8623,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8163,17 +8653,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerSizeLimit
-Description for containerSizeLimit.
+The containersizelimit
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.9.70
+
 **XML Name**: containerSizeLimit
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/containerSizeLimit
 
 ### Belongs to parameters group
 
@@ -8182,7 +8675,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8212,17 +8705,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerWeightLimit
-Description for containerWeightLimit.
+The containerweightlimit
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.5.31
+
 **XML Name**: containerWeightLimit
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/containerWeightLimit
 
 ### Belongs to parameters group
 
@@ -8231,7 +8727,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8261,17 +8757,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## swapBodyAcceptance
-Description for swapBodyAcceptance.
+The swapbodyacceptance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.7.90
+
 **XML Name**: swapBodyAcceptance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/swapBodyAcceptance
 
 ### Belongs to parameters group
 
@@ -8280,7 +8779,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8310,17 +8809,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## swapBodySizeLimit
-Description for swapBodySizeLimit.
+The swapbodysizelimit
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.8.51
+
 **XML Name**: swapBodySizeLimit
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/swapBodySizeLimit
 
 ### Belongs to parameters group
 
@@ -8329,7 +8831,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8359,17 +8861,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## swapBodyWeightLimit
-Description for swapBodyWeightLimit.
+The swapbodyweightlimit
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.5.50
+
 **XML Name**: swapBodyWeightLimit
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/swapBodyWeightLimit
 
 ### Belongs to parameters group
 
@@ -8378,7 +8883,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8408,17 +8913,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trailerAcceptance
-Description for trailerAcceptance.
+The traileracceptance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.5.25
+
 **XML Name**: trailerAcceptance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/trailerAcceptance
 
 ### Belongs to parameters group
 
@@ -8427,7 +8935,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8457,17 +8965,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trailerSizeLimit
-Description for trailerSizeLimit.
+The trailersizelimit
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.3.43
+
 **XML Name**: trailerSizeLimit
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/trailerSizeLimit
 
 ### Belongs to parameters group
 
@@ -8476,7 +8987,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8506,17 +9017,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trailerWeightLimit
-Description for trailerWeightLimit.
+The trailerweightlimit
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.5.9
+
 **XML Name**: trailerWeightLimit
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/trailerWeightLimit
 
 ### Belongs to parameters group
 
@@ -8525,7 +9039,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8555,17 +9069,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## truckTrailerAcceptance
-Description for truckTrailerAcceptance.
+The trucktraileracceptance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.2.45
+
 **XML Name**: truckTrailerAcceptance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/truckTrailerAcceptance
 
 ### Belongs to parameters group
 
@@ -8574,7 +9091,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8604,17 +9121,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## conventionalCargoAcceptance
-Description for conventionalCargoAcceptance.
+The conventionalcargoacceptance
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.2.55
+
 **XML Name**: conventionalCargoAcceptance
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/conventionalCargoAcceptance
 
 ### Belongs to parameters group
 
@@ -8623,7 +9143,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8653,17 +9173,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## palletisedGoods
-Description for palletisedGoods.
+The palletisedgoods
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.9.32
+
 **XML Name**: palletisedGoods
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/palletisedGoods
 
 ### Belongs to parameters group
 
@@ -8672,7 +9195,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8702,17 +9225,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## bulk
-Description for bulk.
+The bulk
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.3.59
+
 **XML Name**: bulk
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/bulk
 
 ### Belongs to parameters group
 
@@ -8721,7 +9247,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8751,17 +9277,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## fluidsAndGas
-Description for fluidsAndGas.
+The fluidsandgas
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.5.47
+
 **XML Name**: fluidsAndGas
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/fluidsAndGas
 
 ### Belongs to parameters group
 
@@ -8770,7 +9299,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8800,17 +9329,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## dangerousGoods
-Description for dangerousGoods.
+The dangerousgoods
 ### General Information
-**Number**: None
+
+**Number**: 1.1.3.3.54
+
 **XML Name**: dangerousGoods
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/dangerousGoods
 
 ### Belongs to parameters group
 
@@ -8819,7 +9351,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8849,17 +9381,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ridClasses
-Description for ridClasses.
+The ridclasses
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.1.89
+
 **XML Name**: ridClasses
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/ridClasses
 
 ### Belongs to parameters group
 
@@ -8868,7 +9403,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8898,17 +9433,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wood
-Description for wood.
+The wood
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.9.63
+
 **XML Name**: wood
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/wood
 
 ### Belongs to parameters group
 
@@ -8917,7 +9455,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8947,17 +9485,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## heavyLoads
-Description for heavyLoads.
+The heavyloads
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.9.61
+
 **XML Name**: heavyLoads
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/heavyLoads
 
 ### Belongs to parameters group
 
@@ -8966,7 +9507,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -8996,17 +9537,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## reeferCargo
-Description for reeferCargo.
+The reefercargo
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.6.52
+
 **XML Name**: reeferCargo
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/reeferCargo
 
 ### Belongs to parameters group
 
@@ -9015,7 +9559,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9045,17 +9589,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## otherCargoTypes
-Description for otherCargoTypes.
+The othercargotypes
 ### General Information
-**Number**: None
+
+**Number**: 1.1.8.3.89
+
 **XML Name**: otherCargoTypes
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/otherCargoTypes
 
 ### Belongs to parameters group
 
@@ -9064,7 +9611,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9094,17 +9641,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## selfSupplyOfRailRelatedServices
-Description for selfSupplyOfRailRelatedServices.
+The selfsupplyofrailrelatedservices
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.7.73
+
 **XML Name**: selfSupplyOfRailRelatedServices
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/selfSupplyOfRailRelatedServices
 
 ### Belongs to parameters group
 
@@ -9113,7 +9663,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9143,17 +9693,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## itSystems
-Description for itSystems.
+The itsystems
 ### General Information
-**Number**: None
+
+**Number**: 1.1.1.9.48
+
 **XML Name**: itSystems
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/itSystems
 
 ### Belongs to parameters group
 
@@ -9162,7 +9715,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9192,17 +9745,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## requestsForAccessOrServices
-Description for requestsForAccessOrServices.
+The requestsforaccessorservices
 ### General Information
-**Number**: None
+
+**Number**: 1.1.7.5.73
+
 **XML Name**: requestsForAccessOrServices
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/requestsForAccessOrServices
 
 ### Belongs to parameters group
 
@@ -9211,7 +9767,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9241,17 +9797,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## bookingConditions
-Description for bookingConditions.
+The bookingconditions
 ### General Information
-**Number**: None
+
+**Number**: 1.1.6.5.10
+
 **XML Name**: bookingConditions
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/bookingConditions
 
 ### Belongs to parameters group
 
@@ -9260,7 +9819,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9290,17 +9849,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## responseToRequests
-Description for responseToRequests.
+The responsetorequests
 ### General Information
-**Number**: None
+
+**Number**: 1.1.2.1.41
+
 **XML Name**: responseToRequests
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/responseToRequests
 
 ### Belongs to parameters group
 
@@ -9309,7 +9871,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9339,17 +9901,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## availableCapacity
-Description for availableCapacity.
+The availablecapacity
 ### General Information
-**Number**: None
+
+**Number**: 1.1.4.9.50
+
 **XML Name**: availableCapacity
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/availableCapacity
 
 ### Belongs to parameters group
 
@@ -9358,7 +9923,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9388,17 +9953,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## temporaryCapacityRestrictions
-Description for temporaryCapacityRestrictions.
+The temporarycapacityrestrictions
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.1.2
+
 **XML Name**: temporaryCapacityRestrictions
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/temporaryCapacityRestrictions
 
 ### Belongs to parameters group
 
@@ -9407,7 +9975,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9437,17 +10005,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## cooperationBetweenSfAndIm
-Description for cooperationBetweenSfAndIm.
+The cooperationbetweensfandim
 ### General Information
-**Number**: None
+
+**Number**: 1.1.5.4.45
+
 **XML Name**: cooperationBetweenSfAndIm
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/cooperationBetweenSfAndIm
 
 ### Belongs to parameters group
 
@@ -9456,7 +10027,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
@@ -9486,17 +10057,20 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## statusChange
-Description for statusChange.
+The statuschange
 ### General Information
-**Number**: None
+
+**Number**: 1.1.9.8.20
+
 **XML Name**: statusChange
-**Deadline**: None
+
+**Deadline**: xx
 
 ### Data Format
 * **Data Presentation**
-None
+[Organization](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html#Organization)
 * **Taxonomy Reference**
-None
+http://data.europa.eu/949/statusChange
 
 ### Belongs to parameters group
 
@@ -9505,7 +10079,7 @@ None
 ### Flags
 
 * **Applicability Flags**:
-None
+Y/N/NYA
 
 ### Validation
 
