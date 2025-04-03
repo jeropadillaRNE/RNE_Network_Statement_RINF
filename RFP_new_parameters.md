@@ -101,6 +101,7 @@ A type of Service Facility, identified by a number.
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityType
 * **Values**
+
 | Code | Value |
 |------|-------|
 | 1    | 1     |
@@ -229,7 +230,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## mainDataSource
-The maindatasource
+Main Data Source
 ### General Information
 
 **Number**: 1.1.8.3.81
@@ -282,7 +283,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityType
-The facilitytype
+Facility type
 ### General Information
 
 **Number**: 1.1.7.6.94
