@@ -486,7 +486,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaInlandPort
-The areainlandport
+Is the facility located int in Land port Area 
 ### General Information
 
 **Number**: 1.1.4.1.92
